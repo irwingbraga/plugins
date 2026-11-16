@@ -161,6 +161,15 @@
 			"ai_assisted": true
 		}
 	},
+	"com.irwingbraga.iterm": {
+		"name": "TabPulse",
+		"author": "Irwing Braga",
+		"repository": "https://github.com/irwingbraga/tabpulse",
+		"description": "iTerm2 tabs on your Stream Deck with live activity feedback (Claude Code aware). OpenDeck plugin.",
+		"flags": {
+			"ai_assisted": true
+		}
+	},
 	"com.kahikara.opendeck-redline": {
 		"name": "Redline Monitor",
 		"author": "Ming",
